@@ -1,0 +1,93 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/thyroid---primary.py
+inputModule3:
+  class: File
+  path: python/hyperthyroidism---primary.py
+inputModule4:
+  class: File
+  path: python/thyrotoxic-hypo-or-hyperthyroidism---primary.py
+inputModule5:
+  class: File
+  path: python/hypo-or-hyperthyroidism-hypothyroidism---primary.py
+inputModule6:
+  class: File
+  path: python/hypo-or-hyperthyroidism---primary.py
+inputModule7:
+  class: File
+  path: python/hypo-or-hyperthyroidism-monitoring---primary.py
+inputModule8:
+  class: File
+  path: python/hypo-or-hyperthyroidism-letter---primary.py
+inputModule9:
+  class: File
+  path: python/hypo-or-hyperthyroidism-basedow's---primary.py
+inputModule10:
+  class: File
+  path: python/hypo-or-hyperthyroidism-graves'---primary.py
+inputModule11:
+  class: File
+  path: python/hypo-or-hyperthyroidism-crisis---primary.py
+inputModule12:
+  class: File
+  path: python/hypo-or-hyperthyroidism-acquired---primary.py
+inputModule13:
+  class: File
+  path: python/hypo-or-hyperthyroidism-myxoedema---primary.py
+inputModule14:
+  class: File
+  path: python/hypo-or-hyperthyroidism-deficiency---primary.py
+inputModule15:
+  class: File
+  path: python/postablative-hypo-or-hyperthyroidism---primary.py
+inputModule16:
+  class: File
+  path: python/iatrogenic-hypo-or-hyperthyroidism---primary.py
+inputModule17:
+  class: File
+  path: python/hypo-or-hyperthyroidism-autoimmune---primary.py
+inputModule18:
+  class: File
+  path: python/hypo-or-hyperthyroidism-thyroiditis---primary.py
+inputModule19:
+  class: File
+  path: python/chronic-hypo-or-hyperthyroidism---primary.py
+inputModule20:
+  class: File
+  path: python/hypo-or-hyperthyroidism-hashimoto's---primary.py
+inputModule21:
+  class: File
+  path: python/hypo-or-hyperthyroidism-specified---primary.py
+inputModule22:
+  class: File
+  path: python/myasthenic-hypo-or-hyperthyroidism---primary.py
+inputModule23:
+  class: File
+  path: python/myopathy-hypo-or-hyperthyroidism---primary.py
+inputModule24:
+  class: File
+  path: python/hypo-or-hyperthyroidism-exophthalmo---primary.py
+inputModule25:
+  class: File
+  path: python/hypo-or-hyperthyroidism---secondary.py
+inputModule26:
+  class: File
+  path: python/hypo-or-hyperthyroidism-unspecified---secondary.py
+inputModule27:
+  class: File
+  path: python/hypo-or-hyperthyroidism-goitre---secondary.py
+inputModule28:
+  class: File
+  path: python/hypo-or-hyperthyroidism-thyrotoxicosis---secondary.py
+inputModule29:
+  class: File
+  path: python/other-hypo-or-hyperthyroidism---secondary.py
+inputModule30:
+  class: File
+  path: python/chronic-hypo-or-hyperthyroidism---secondary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
